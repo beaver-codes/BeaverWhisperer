@@ -32,7 +32,29 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.section {
+  border: 1px solid white;
+  padding: 1em;
+  border-radius: 1em;
+  width: 80%;
+  margin-bottom: 1em;
+}
+
+button {
+  cursor: pointer;
+  font-size: 1em;
+  margin: 1em;
+}
+
+
+input {
+  font-size: 1em;
+  margin: 1em;
 }
